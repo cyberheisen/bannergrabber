@@ -1,2 +1,2 @@
 # bannergrabber
-A python script to extract tcp port service banners
+A python script to parse masscan results and obtain tcp port service banners
